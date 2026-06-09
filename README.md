@@ -2,7 +2,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-B-Trees_%7C_GIN_%7C_Partial-2ea44f?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures-B--Trees_%7C_GIN_%7C_Partial-2ea44f?style=for-the-badge)
 
 ## 📌 Overview
 This project is a Backend Architecture Case Study demonstrating production-level database optimization. I designed a multi-tenant PostgreSQL schema simulating a SaaS Support Copilot platform, engineered a high-throughput Python data pipeline to batch-ingest hundreds of thousands of synthetic records, and used `EXPLAIN ANALYZE` to identify and resolve critical $O(N)$ query bottlenecks. 

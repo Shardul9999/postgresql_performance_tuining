@@ -1,0 +1,6 @@
+#Secrets and Passwords
+.env
+
+#Python Cache
+__pychache__/
+*.pyc
